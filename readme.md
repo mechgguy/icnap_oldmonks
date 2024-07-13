@@ -30,13 +30,12 @@ The **Data Stream** branch includes tasks for processing, visualizing, and mathe
 
 The **Unity** branch strives to integrate 3D data with augmented reality. It aims to facilitate both reactive and preventive maintenance tasks, with the added possibility of showing data flow packets between sensors.
 
-- **Branch**: [unity](https://github.com/your-repo/unity)
-- **README**: Detailed implementation and instructions can be found in the Unity branch's [README](https://github.com/your-repo/unity/blob/main/README.md).
+- **Branch**: unity
+- **README**: Detailed implementation and instructions can be found in the Unity branch's [README].
 
 ## Getting Started
 
 To get started with the project, follow these steps:
 
 1. **Clone the Repository**: 
-   ```bash
-   git clone https://github.com/your-repo/your-project.git
+   
