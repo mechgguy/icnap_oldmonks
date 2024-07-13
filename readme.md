@@ -9,6 +9,7 @@ Our proposed solution addresses the following areas:
 1. **Kraken**: Implementing a data kraken to handle inputs from various sensors and protocols, streaming data to a central server to create a unified database.
 2. **Data Stream**: Feature processing, visualization, and mathematical modeling using XML files.
 3. **Unity**: Integrating 3D data with augmented reality to facilitate reactive and preventive maintenance tasks, and visualizing data flow packets between sensors for better project explanation and information flow.
+4. **Node Red**: Integrates Node Red with kafka python brokers.
 
 ## Branches
 
@@ -32,6 +33,9 @@ The **Unity** branch strives to integrate maintainance tasks with mixed reality.
 
 - **Branch**: unity
 - **README**: Detailed implementation and instructions can be found in the Unity branch's [README].
+
+### 4. Node Red Python
+The **Node Red** branch invokes Node Red processing with python and kafka brokers.
 
 ## Getting Started
 
