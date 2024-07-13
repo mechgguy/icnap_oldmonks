@@ -57,7 +57,7 @@ To get started with the project, follow these steps:
 
 ## Acknowledgments
 
-We would like to thank the hackathon organizers Fraunhofer with partners MTU Aero Engines and Schaeffler for providing this platform and opportunity to showcase our skills and ideas. Special thanks to Julian, Martin and Stefan from the MTU team who provided invaluable guidance throughout the development of this project.
+We would like to thank the hackathon organizers Fraunhofer with partners MTU Aero Engines and Schaeffler for providing this platform and opportunity to showcase our skills and ideas. Special thanks to Justin, Martin and Stefan from the MTU team who provided invaluable guidance throughout the development of this project.
 
 ## License
 
