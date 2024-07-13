@@ -16,15 +16,15 @@ Our proposed solution addresses the following areas:
 
 The **Kraken** branch focuses on the implementation of a data kraken that takes inputs from different sensors and protocols. These inputs are streamed to a central server, creating a unified database.
 
-- **Branch**: [kraken](https://github.com/your-repo/kraken)
-- **README**: Detailed implementation and instructions can be found in the Kraken branch's [README](https://github.com/your-repo/kraken/blob/main/README.md).
+- **Branch**: [kraken](https://github.com/icnap_oldmonks/kraken)
+- **README**: Detailed implementation and instructions can be found in the Kraken branch's [README](https://github.com/icnap_oldmonks/kraken/blob/main/README.md).
 
 ### 2. Data Stream
 
 The **Data Stream** branch includes tasks for processing, visualizing, and mathematically modeling features from XML files.
 
-- **Branch**: [data_stream](https://github.com/your-repo/data_stream)
-- **README**: Detailed instructions on feature processing, visualization, and modeling can be found in the Data Stream branch's [README](https://github.com/your-repo/data_stream/blob/main/README.md).
+- **Branch**: [data_stream](https://github.com/icnap_oldmonks/data_stream)
+- **README**: Detailed instructions on feature processing, visualization, and modeling can be found in the Data Stream branch's [README](https://github.com/icnap_oldmonks/data_stream/blob/main/README.md).
 
 ### 3. Unity
 
