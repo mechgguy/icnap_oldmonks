@@ -20,7 +20,12 @@ This project is a central platform that integrates different data sources and pr
 - **Data Processing**: Python with libraries like Pandas and NumPy.
 - **UI**: Flask for backend API and React for frontend.
 
-## Setup and Installation
+## Visualisation Intermediates
+
+![MQTTx](mqttvisualise.jpeg "MQTTx for visualisation")
+![Broker MQTT](mqttbrokervis.jpeg "MQTT broker established")
+![MQTT Communication](mqttvisualise.jpeg "MQTT communication established")
+
 
 ### Prerequisites
 
@@ -34,6 +39,4 @@ This project is a central platform that integrates different data sources and pr
    git clone <repository-url>
    cd <repository-directory>
 
-### Reactive Maintainance with Unity glasses
-
-## High level to Low level >>>>> plant dynamics and information flow
+   
