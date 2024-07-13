@@ -15,6 +15,8 @@ To use the data stream and database implementation, follow these steps:
 2. Install the required dependencies.
 3. Run the `extract_generate_data.py` script to start collecting data from sensors and protocols.
 
+![pca result](pcavis.jpeg "PCA results visualised")
+
 ## Contributing
 
 If you would like to contribute to this project, please follow these guidelines:
