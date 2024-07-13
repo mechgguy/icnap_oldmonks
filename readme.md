@@ -28,7 +28,7 @@ The **Data Stream** branch includes tasks for processing, visualizing, and mathe
 
 ### 3. Unity
 
-The **Unity** branch strives to integrate 3D data with augmented reality. It aims to facilitate both reactive and preventive maintenance tasks, with the added possibility of showing data flow packets between sensors.
+The **Unity** branch strives to integrate maintainance tasks with mixed reality. It aims to facilitate both reactive and preventive maintenance tasks and to simulate the 3D environment related to them, with the added possibility of showing data flow packets between sensors.
 
 - **Branch**: unity
 - **README**: Detailed implementation and instructions can be found in the Unity branch's [README].
