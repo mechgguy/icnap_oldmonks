@@ -1,39 +1,42 @@
-# Central Data Integration Platform
+# Hackathon Project: Integrated Maintenance Solution
+
+Welcome to our hackathon project! This repository is divided into three main branches, each focusing on a specific domain to provide a comprehensive solution for maintenance tasks in production plants. 
 
 ## Overview
 
-This project is a central platform that integrates different data sources and protocols (TCP/IP, Modbus, MQTT, OPC UA), stores and interprets the data efficiently using TimescaleDB, and ensures reproducibility by leveraging Docker containers.
+Our proposed solution addresses the following areas:
 
-## Architecture
+1. **Kraken**: Implementing a data kraken to handle inputs from various sensors and protocols, streaming data to a central server to create a unified database.
+2. **Data Stream**: Feature processing, visualization, and mathematical modeling using XML files.
+3. **Unity**: Integrating 3D data with augmented reality to facilitate reactive and preventive maintenance tasks, and visualizing data flow packets between sensors for better project explanation and information flow.
 
-1. **Data Acquisition Layer**: Utilizes a multiprotocol microcontroller to gather data using TCP/IP, Modbus, MQTT, and OPC UA protocols.
-2. **Data Ingestion Layer**: Implements Docker containers to handle data ingestion, ensuring each protocol has a dedicated container for modularity and reproducibility.
-3. **Data Storage Layer**: Uses TimescaleDB to store the collected data efficiently.
-4. **Data Processing and Interpretation Layer**: Uses a data processing framework to interpret and analyze the data.
-5. **User Interface Layer**: Develops a user-friendly interface to visualize the data and control the system.
+## Branches
 
-## Technologies
+### 1. Kraken
 
-- **Microcontroller**: ESP32 or Raspberry Pi with support for multiple protocols.
-- **Docker**: For containerization.
-- **Database**: TimescaleDB.
-- **Data Processing**: Python with libraries like Pandas and NumPy.
-- **UI**: Flask for backend API and React for frontend.
+The **Kraken** branch focuses on the implementation of a data kraken that takes inputs from different sensors and protocols. These inputs are streamed to a central server, creating a unified database.
 
-## Setup and Installation
+- **Branch**: [kraken](https://github.com/your-repo/kraken)
+- **README**: Detailed implementation and instructions can be found in the Kraken branch's [README](https://github.com/your-repo/kraken/blob/main/README.md).
 
-### Prerequisites
+### 2. Data Stream
 
-- Docker and Docker Compose installed on your machine.
+The **Data Stream** branch includes tasks for processing, visualizing, and mathematically modeling features from XML files.
 
-### Steps
+- **Branch**: [data_stream](https://github.com/your-repo/data_stream)
+- **README**: Detailed instructions on feature processing, visualization, and modeling can be found in the Data Stream branch's [README](https://github.com/your-repo/data_stream/blob/main/README.md).
 
-1. **Clone the repository**:
+### 3. Unity
 
+The **Unity** branch strives to integrate 3D data with augmented reality. It aims to facilitate both reactive and preventive maintenance tasks, with the added possibility of showing data flow packets between sensors.
+
+- **Branch**: [unity](https://github.com/your-repo/unity)
+- **README**: Detailed implementation and instructions can be found in the Unity branch's [README](https://github.com/your-repo/unity/blob/main/README.md).
+
+## Getting Started
+
+To get started with the project, follow these steps:
+
+1. **Clone the Repository**: 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
-
-### Reactive Maintainance with Unity glasses
-
-## High level to Low level >>>>> plant dynamics and information flow
+   git clone https://github.com/your-repo/your-project.git
