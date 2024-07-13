@@ -37,5 +37,30 @@ The **Unity** branch strives to integrate 3D data with augmented reality. It aim
 
 To get started with the project, follow these steps:
 
-1. **Clone the Repository**: 
+1. **Clone the Repository**
+
+## Collaborators
+
+- **Anujoy Chakraborthy**
+  - [GitHub Profile](https://github.com/yojuna/yojuna)
+  - Email: anujoy.chakraborthy@rwth-aachen.de
+
+- **Rahul Kadam**
+  - Email: rahul.kadam@rwth-aachen.de
+
+- **Nikhil Myadam**
+  - Email: nikhil.myadam@rwth-aachen.de
+
+- **Manas Mehrotra**
+  - [GitHub Profile](https://github.com/mechgguy)
+  - Email: manas.mehrotra@rwth-aachen.de
+
+## Acknowledgments
+
+We would like to thank the hackathon organizers Fraunhofer with partners MTU Aero Engines and Schaeffler for providing this platform and opportunity to showcase our skills and ideas. Special thanks to Julian, Martin and Stefan from the MTU team who provided invaluable guidance throughout the development of this project.
+
+## License
+
+This project is licensed under the MIT License.
+
    
